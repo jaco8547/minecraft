@@ -4,17 +4,17 @@
   "mods": [
     {
       "path": "mods/jei-1.20.1-forge-15.20.0.134.jar",
-      "url": "https://your-cdn.example.com/modpack/mods/jei-1.20.1-forge-15.20.0.134.jar",
+      "url": "https://raw.githubusercontent.com/jaco8547/minecraft/main/mods/jei-1.20.1-forge-15.20.0.134.jar",
       "sha256": "7cc9f12b02e5ab625933c67dac819ff873a7508728b66e6077b13704e98c478e"
     },
     {
       "path": "mods/justcoordinates-0.6.0+1.20.1-forge.jar",
-      "url": "https://your-cdn.example.com/modpack/mods/justcoordinates-0.6.0%2B1.20.1-forge.jar",
+      "url": "https://raw.githubusercontent.com/jaco8547/minecraft/main/mods/justcoordinates-0.6.0%2B1.20.1-forge.jar",
       "sha256": "5a412f26e87d3e5e48fb4c9c0860b3bfd6511b1f38b2074f9a3bfdd5045a6aa7"
     },
     {
       "path": "mods/tacz-1.20.1-1.1.8-hotfix.jar",
-      "url": "https://your-cdn.example.com/modpack/mods/tacz-1.20.1-1.1.8-hotfix.jar",
+      "url": "https://raw.githubusercontent.com/jaco8547/minecraft/main/mods/tacz-1.20.1-1.1.8-hotfix.jar",
       "sha256": "9ed8ada1283ed7a793a70cc1b51c4a340f367ce84707e1a7b8cf21ee3d288d77"
     }
   ]
